@@ -1,1 +1,1 @@
-# docker-centos-base
+# Docker CentOS base
